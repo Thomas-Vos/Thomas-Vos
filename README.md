@@ -1,6 +1,6 @@
 ### Hi, I'm Thomas Vos 👋
 
-Software engineer at SmartFusionLabs. Currently working on my app [Hue Essentials](https://hueessentials.com).
+I'm a software engineer at SmartFusionLabs. Currently working on a smart lighting app called [Hue Essentials](https://hueessentials.com).
 
 <!--
 **Thomas-Vos/Thomas-Vos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
